@@ -1,0 +1,9 @@
+global using Fonts;
+global using StockManager.UI.Data;
+global using StockManager.UI.PageModels;
+global using StockManager.UI.Pages;
+global using StockManager.UI.Services;
+global using StockManager.UI.Utilities;
+global using StockManager.SharedKernel.Dispatcher;
+//global using StockManager.Dominio.Queries;
+//global using StockManager.Dominio.Commands;
